@@ -1,2 +1,2 @@
 # GitMyRepo
-Lab Stuff
+Lab Stuff - My Repo
