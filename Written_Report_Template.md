@@ -21,3 +21,5 @@
 - What are some limitations of this dataset?
 
 - What are some other possible tables and/or graphs that we could create?
+
+![My Test](https://github.com/fmorote01/GitMyRepo/blob/main/Resource/Outcomes_vs_Goals.png)
