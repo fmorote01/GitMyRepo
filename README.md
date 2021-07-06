@@ -3,10 +3,10 @@
 ## Overview of Project
 Provide a high level analysis for a fundraising campaing.
 ### Purpose
-    To determine how different campaigns fared in relation to:
-    1. launch dates and, their
-    2. funding goals.
-    3. Visualize the campaing based on above items.
+To determine how different campaigns fared in relation to:
+1. launch dates and, their
+2. funding goals.
+3. Visualize the campaing based on above items.
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
