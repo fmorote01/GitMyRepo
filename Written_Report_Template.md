@@ -18,7 +18,7 @@ Provide a high level analysis for a fundraising campaing.
 ### Analysis of Outcomes Based on Goals
 1.  I shouldn't worry about "Percentage Canceled" status because it the data does not exist or may tend to zero.
 2.  Both lines Successful and Failes are inversely porportional, by knowing one of them you may predict the outcome of the other.
-3.  "Sucess" mainly comes at the first two range of levels.
+3.  "Success" mainly comes at the first two range of levels.
 4.  "Success" between ranges of 39999 - 49999 can not be explained. It could be a ransom situation.
 ![My Test](https://github.com/fmorote01/GitMyRepo/blob/main/Resource/Outcomes_vs_Goals.png)
 
@@ -29,6 +29,8 @@ I am pretty raw doing graph analysis. I know that I am missing more things in tr
 ## Results
 
 - _What are two conclusions you can draw about the Outcomes based on Launch Date?_
+    1. It is a seasonal service where May is at is highest peak.
+    2. "Canceled" items are significantly predictable, they are in a flat line and may tend to zero.
 
 - _What can you conclude about the Outcomes based on Goals?_
     1. There is a simetric/mirror relationshihp where the financial break point between %
