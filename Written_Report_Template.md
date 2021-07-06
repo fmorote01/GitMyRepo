@@ -15,7 +15,7 @@ Provide a high level analysis for a fundraising campaing.
 1.  It looks like we are dealing with a seasonal product where its peak occurs in May.
 2.  "Canceled" status is a condition that its is pretty predictable.
 3.  December is a month where I wouldn't invest my efforts.
-  
+![Launch Date](https://github.com/fmorote01/GitMyRepo/blob/main/Resource/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
 1.  I shouldn't worry about "Percentage Canceled" status because it does not exist in teh data.
 2.  Both lines Successful and Failes are inversely porportional, by knowing one of them you can predict the outcome of the other.
