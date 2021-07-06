@@ -19,12 +19,12 @@ Provide a high level analysis for a fundraising campaing.
 1.  I shouldn't worry about "Percentage Canceled" status because it the data does not exist or may tend to zero.
 2.  Both lines Successful and Failes are inversely porportional, by knowing one of them you may predict the outcome of the other.
 3.  "Sucess" mainly comes at the first two range of levels.
-4.  "Success" between tanges of 39999 - 49999 can not be explained.
+4.  "Success" between ranges of 39999 - 49999 can not be explained. It could be a ransom situation.
 ![My Test](https://github.com/fmorote01/GitMyRepo/blob/main/Resource/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 I think that the information provided in class, documents, and assistance of TAs made this challenge bearable.
-I am pretty raw doing graph analysis. I know that I am missing more things in translating them.
+I am pretty raw doing graph analysis. I know that I am missing more things in translating above graphs.
 
 ## Results
 
