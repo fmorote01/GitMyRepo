@@ -7,18 +7,17 @@ Provide a high level analysis for a fundraising campaing.
     1. launch dates and, their
     2. funding goals.
     3. Visualize the campaing based on above items.
-
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
 
 1.  It looks like we are dealing with a seasonal product where its peak occurs in May.
-2.  "Canceled" status is a condition that its is pretty predictable.
+2.  "Canceled" status is a condition that its is pretty predictable, the line is almost flat.
 3.  December is a month where I wouldn't invest my efforts.
 ![Launch Date](https://github.com/fmorote01/GitMyRepo/blob/main/Resource/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
-1.  I shouldn't worry about "Percentage Canceled" status because it does not exist in teh data.
-2.  Both lines Successful and Failes are inversely porportional, by knowing one of them you can predict the outcome of the other.
+1.  I shouldn't worry about "Percentage Canceled" status because it the data does not exist or may tend to zero.
+2.  Both lines Successful and Failes are inversely porportional, by knowing one of them you may predict the outcome of the other.
 3.  "Sucess" mainly comes at the first two range of levels.
 4.  "Success" between tanges of 39999 - 49999 can not be explained.
 ![My Test](https://github.com/fmorote01/GitMyRepo/blob/main/Resource/Outcomes_vs_Goals.png)
