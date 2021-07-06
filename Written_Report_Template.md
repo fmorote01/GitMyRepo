@@ -21,6 +21,7 @@ Provide a high level analysis for a fundraising campaing.
 2.  Both lines Successful and Failes are inversely porportional, by knowing one of them you can predict the outcome of the other.
 3.  "Sucess" mainly comes at the first two range of levels.
 4.  "Success" between tanges of 39999 - 49999 can not be explained.
+![My Test](https://github.com/fmorote01/GitMyRepo/blob/main/Resource/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
@@ -39,6 +40,3 @@ Provide a high level analysis for a fundraising campaing.
 - _What are some other possible tables and/or graphs that we could create?_
     1.  Clustered or Stacked Column (or Bar)
     2.  Combo
-
-
-![My Test](https://github.com/fmorote01/GitMyRepo/blob/main/Resource/Outcomes_vs_Goals.png)
