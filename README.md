@@ -20,7 +20,7 @@ Provide a high level analysis for a fundraising campaing.
 2.  Both lines Successful and Failes are inversely porportional, by knowing one of them you may predict the outcome of the other.
 3.  "Success" mainly comes at the first two range of levels.
 4.  "Success" between ranges of 39999 - 49999 can not be explained. It could be a ransom situation.
-![My Test](https://github.com/fmorote01/GitMyRepo/blob/main/Resource/Outcomes_vs_Goals.png)
+![My Test](/Resource/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 I think that the information provided in class, documents, and assistance of TAs made this challenge bearable.
