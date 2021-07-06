@@ -23,6 +23,8 @@ Provide a high level analysis for a fundraising campaing.
 ![My Test](https://github.com/fmorote01/GitMyRepo/blob/main/Resource/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
+I think that the information provided in class, documents, and assistance of TAs made this challenge bearable.
+I am pretty raw doing graph analysis. I know that I am missing more things in translating them.
 
 ## Results
 
@@ -34,7 +36,7 @@ Provide a high level analysis for a fundraising campaing.
     2. Percentage canceled is not a significant in the analysis.
 
 - _What are some limitations of this dataset?_
-    1. In the "Theater Outcomes by Launche Date" I wish I can have data for more than a year.
+    1. Size. In the "Theater Outcomes by Launche Date" I wish I can have data for more than a year.
 
 - _What are some other possible tables and/or graphs that we could create?_
     1.  Clustered or Stacked Column (or Bar)
